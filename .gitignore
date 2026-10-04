@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.work/
+private/
+__pycache__/
+*.pyc
+*.xlsx.inspect.ndjson
